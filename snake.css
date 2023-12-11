@@ -26,4 +26,8 @@ media screen(min-width:900px){
         height:300;
         width: 300;    
     }
+    body{
+        height: 700px;
+        width: 550px;
+    }
 }
