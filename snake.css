@@ -20,3 +20,10 @@ body {
 snake{
     border-radius: 12px;
 }
+
+media screen(min-width:900px){
+    .canvas{
+        height:300;
+        width: 300;    
+    }
+}
